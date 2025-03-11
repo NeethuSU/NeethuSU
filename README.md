@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi it's Neethu 👋
 
+Welcome to my GitHub profile! I’m a software developer by profession 👩‍💻 who is passionate about everything around the universe 🌏.
+
+I love reading 📖, and I’m constantly learning new things, exploring new technologies 💡, and plan to contribute to open-source projects .
+
+🚀 About Me
+- 🌱 I’m currently planning to review core concepts in technology to refresh my knowledge, build and share a stronger foundation
+- ⚡ Fun fact: I have once dream of becoming an author and built a blog, but it's not public yet !
+
+  
 <!--
 **NeethuSU/NeethuSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
