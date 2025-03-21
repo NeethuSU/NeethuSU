@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a software developer by profession 👩‍💻 who is passionate about everything around the universe 🌏.
 
-I love reading 📖, and I’m constantly learning new things, exploring new technologies 💡, and plan to contribute to open-source projects .
+I love reading 📖, and I’m constantly learning new things, exploring new technologies 💡, and love to contribute to open-source projects .
 
 🚀 About Me
 - 🌱 I’m currently planning to review core concepts in technology to refresh my knowledge, build and share a stronger foundation
